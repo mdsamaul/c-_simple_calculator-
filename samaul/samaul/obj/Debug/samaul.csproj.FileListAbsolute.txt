@@ -1,0 +1,7 @@
+D:\c#\class_01\samaul\samaul\bin\Debug\samaul.exe.config
+D:\c#\class_01\samaul\samaul\bin\Debug\samaul.exe
+D:\c#\class_01\samaul\samaul\bin\Debug\samaul.pdb
+D:\c#\class_01\samaul\samaul\obj\Debug\samaul.csproj.AssemblyReference.cache
+D:\c#\class_01\samaul\samaul\obj\Debug\samaul.csproj.CoreCompileInputs.cache
+D:\c#\class_01\samaul\samaul\obj\Debug\samaul.exe
+D:\c#\class_01\samaul\samaul\obj\Debug\samaul.pdb
